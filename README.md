@@ -16,7 +16,7 @@
 ## اجرا روی سیستم خودت
 
 ```bash
-git clone https://github.com/smmhosseini/learning/todo-app.git
+git clone https://github.com/smmhosseini/learning.git
 cd todo-app
 ```
 
